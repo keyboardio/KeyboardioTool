@@ -1,11 +1,15 @@
 {
-  "name": "keyboardio_tool",
+  "name": "KeyboardioTool",
+  "productName": "Keyboardio Tool",
   "version": "0.1.0",
+  "description": "Electron interactive API demos",
+  "private": true,
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "devDependencies": {
+    "electron-packager": "^7.1.0",
     "electron-prebuilt": "^1.2.5"
   }
 }

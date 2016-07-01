@@ -1,3 +1,4 @@
+'use strict'
 const electron = require('electron')
 const BrowserWindow = electron.BrowserWindow
 const Menu = electron.Menu
